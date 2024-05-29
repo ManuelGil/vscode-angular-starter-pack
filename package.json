@@ -1,0 +1,53 @@
+{
+  "name": "vscode-angular-starter-pack",
+  "displayName": "Angular Starter Extension Pack",
+  "description": "This starter extension pack includes some of the minimum extensions to get you started with Angular development in Visual Studio Code.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "angular",
+    "extension-pack"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-angular-starter-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-angular-starter-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-angular-starter-pack/issues"
+  },
+  "extensionPack": [
+    "Angular.ng-template",
+    "johnpapa.Angular2",
+    "imgildev.vscode-angular-generator",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "vincaslt.highlight-matching-tag",
+    "oderwat.indent-rainbow",
+    "shardulm94.trailing-spaces",
+    "editorconfig.editorconfig",
+    "imgildev.vscode-auto-barrel",
+    "usernamehw.errorlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "christian-kohler.path-intellisense",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
