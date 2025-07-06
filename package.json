@@ -2,7 +2,7 @@
   "name": "vscode-angular-starter-pack",
   "displayName": "Angular Starter Extension Pack",
   "description": "This starter extension pack includes some of the minimum extensions to get you started with Angular development in Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -21,7 +21,22 @@
   ],
   "keywords": [
     "angular",
-    "extension-pack"
+    "angular14",
+    "angular15",
+    "angular16",
+    "angular17",
+    "angular18",
+    "angular19",
+    "angular20",
+    "extension-pack",
+    "formatter",
+    "javascript",
+    "linting",
+    "productivity",
+    "snippets",
+    "testing",
+    "typescript",
+    "vscode"
   ],
   "homepage": "https://github.com/ManuelGil/vscode-angular-starter-pack",
   "repository": {
